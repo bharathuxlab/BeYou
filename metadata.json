@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MindfulTick",
+  "description": "A playful, psychology-based timer app that uses AI to set intentions and keep you in flow state.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
